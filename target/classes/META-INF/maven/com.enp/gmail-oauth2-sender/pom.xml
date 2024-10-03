@@ -36,6 +36,13 @@
             <artifactId>mail</artifactId>
             <version>1.4.7</version>
         </dependency>
+        
+        <!-- Dependencia para jackson2 -->
+        <dependency>
+		    <groupId>com.google.http-client</groupId>
+		    <artifactId>google-http-client-jackson2</artifactId>
+		    <version>1.41.5</version>
+		</dependency>
     </dependencies>
 	
 	<build>
